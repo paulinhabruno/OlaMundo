@@ -2,3 +2,5 @@
  Primeiro repositorio versionado no github desktop
 
  Repositório criado durante uma aula do prof. Gustavo Guanabara.
+
+Linha add diretamente no navegador.
